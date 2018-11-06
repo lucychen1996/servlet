@@ -1,0 +1,16 @@
+SMAP
+confirmation_jsp.java
+JSP
+*S JSP
+*F
++ 0 confirmation.jsp
+confirmation.jsp
+*L
+5,8:44
+13:52,10
+14,3:62
+17:65,3
+18,2:68
+20:70,3
+21,4:73
+*E
